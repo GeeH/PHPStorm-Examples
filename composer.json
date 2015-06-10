@@ -1,0 +1,16 @@
+{
+  "name": "GeeH/PHPStorm-Examples",
+  "description": "Some examples for PHP Storm team",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gary Hockin",
+      "email": "gary@hock.in"
+    }
+  ],
+  "require": {
+    "php": "~5.5",
+    "zendframework/zend-servicemanager": "~2.5.1"
+  }
+}
